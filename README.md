@@ -1,2 +1,6 @@
-# BSF-Framework-FiveM
-Breezy's Framework For FiveM, Only For Use with Southland Roleplay!
+# Breezy's Framework
+## Made By . . .
+* Nightmarez#9548
+
+## Discord . . .
+https://discord.gg/yB5buewqsR
